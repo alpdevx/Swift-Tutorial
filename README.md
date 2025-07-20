@@ -44,7 +44,7 @@ This repository is currently read-only for learning purposes. If you'd like to s
 
 ## 📎 License
 
-free to use for learning and personal development.
+This project is shared under the MIT License — free to use for learning and personal development.
 
 ---
 
